@@ -1,34 +1,9 @@
-# Bienvenido a mi Repositorio
+<h1 align="center">Hi 👋, I'm Jeferson Delgado</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Hola, soy Jeferson Delgado y este es mi espacio de trabajo. Permíteme contarte sobre mi experiencia y proyectos anteriores.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## Experiencia Profesional
-
-Como contratista independiente, he trabajado en proyectos emocionantes, incluyendo la provisión de servicios profesionales para la clínica web Cristal Web. Mis responsabilidades abarcaron:
-
-- Soporte y mantenimiento del sistema Cristal Web.
-- Implementación de prácticas de ingeniería de software.
-- Desarrollo de herramientas personalizadas para mejorar la eficiencia.
-- Colaboración en el desarrollo tecnológico y resolución de problemas técnicos.
-- Manejo de bases de datos y gestión de servicios de tecnología de la información.
-
-## Gestión de Proyectos
-
-- Utilicé Jira para gestionar proyectos y seguimiento de problemas.
-- Configuré y personalicé proyectos en Jira.
-- Generé informes y métricas para tomar decisiones basadas en datos.
-
-## Desarrollo de Software
-
-- Participé en el desarrollo de nuevas funcionalidades y módulos.
-- Aplicación de metodologías ágiles como Scrum.
-- Control de versiones con Git y buenas prácticas de desarrollo de software.
-
-## Colaboración y Mantenimiento
-
-- Trabajo en equipo y colaboración estrecha con el equipo de desarrollo.
-- Mantenimiento proactivo de sistemas, corrección de errores y mejoras.
-
-Si tienes alguna pregunta o deseas saber más acerca de mis proyectos, ¡no dudes en contactarme!
-
-¡Gracias por visitar mi repositorio!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
