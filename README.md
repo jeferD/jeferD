@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeferson Delgado</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-<h3 align="left">Connect with me:<a src='www.linkedin.com/in/jeferson-delgado-ing'></a></h3>
+<h3 align="left">Connect with me:<a src='www.linkedin.com/in/jeferson-delgado-ing'>Linkedln</a></h3>
 <p align="left">
 </p>
 
